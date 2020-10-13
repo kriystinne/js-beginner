@@ -188,3 +188,21 @@ if (n===10) {
 else {
     console.log("n is not a string")
 }
+
+/*const num1 = 12
+const num2 = 7
+result = (num1+num2)*2
+console.log(result)
+if (result <50) {
+    console.log("Result is smaller")
+}
+else {
+    console.log("Result is bigger")
+}
+numberList = Array()
+for (let i = 0; i<6; i++){
+    numberList.push(i)
+}
+console.log(numberList)
+numberList.pop()
+console.log(numberList)*/
